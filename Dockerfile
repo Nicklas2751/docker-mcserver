@@ -1,4 +1,4 @@
-FROM openjdk:17-jre-slim
+FROM openjdk:17-slim
 LABEL maintainer="docker@dfriedmann.de"
 
 ARG SERVER_URL=https://launcher.mojang.com/v1/objects/35139deedbd5182953cf1caa23835da59ca3d7cd/server.jar
