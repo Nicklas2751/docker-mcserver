@@ -92,7 +92,7 @@ environment section.
 
 ## Run with kubernetes
 
-For an kubernetes example see: [Kubernetes Example]](.github/k8s-example.md)
+For an kubernetes example see: [Kubernetes Example]](k8s-example.md)
 
 ---
 Hint: To find a minecraft user id, one can use: https://namemc.com/
